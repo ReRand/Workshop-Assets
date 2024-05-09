@@ -1,0 +1,1 @@
+this folder is for textures used on models and stuff
